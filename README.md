@@ -81,7 +81,7 @@ Helps reduce unnecessary data and focus only on important features.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - Python 3.x  
 - pandas  
