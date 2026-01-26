@@ -1,6 +1,5 @@
-# 🐍 Python Data Cleaning Scripts
 
-## 📘 Introduction to Python
+## Introduction to Python
 
 Python is a high-level, interpreted, and beginner-friendly programming language. It is widely used in many domains such as data analysis, machine learning, web development, automation, and scientific computing.
 
@@ -17,7 +16,7 @@ This repository demonstrates basic data cleaning operations using Python and Pan
 
 ---
 
-## 📂 Scripts Description
+## Scripts Description
 
 ### 1. `data_cleaning.py`
 
