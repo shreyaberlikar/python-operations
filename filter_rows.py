@@ -7,9 +7,9 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Filter students age > 18
 filtered_df = df[df["age"] > 18]
 print(filtered_df)
+
 
 '''
 output:
