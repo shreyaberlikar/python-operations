@@ -15,3 +15,12 @@ df2 = pd.DataFrame(data2)
 
 merged_df = pd.merge(df1, df2, on="id")
 print(merged_df)
+
+
+'''
+Output :
+   id     name  marks
+0   1    Alice     85
+1   2      Bob     90
+2   3  Charlie     78
+'''
